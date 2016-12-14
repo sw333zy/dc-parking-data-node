@@ -1,0 +1,14 @@
+{
+  "name": "dc-parking-data-node",
+  "version": "1.0.0",
+  "description": "Let us use ruby to explore data provided by http://opendata.dc.gov/ to answers a few of the following questions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.2",
+  }
+}
